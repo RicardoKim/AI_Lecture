@@ -15,3 +15,7 @@ https://pytorch.org/tutorials/
 3. Python Application
 https://rednooby.tistory.com/56
 https://wikidocs.net/28
+
+4. Tensorflow Kears Tutorial
+Hands-On-ML 2
+
