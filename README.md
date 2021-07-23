@@ -6,16 +6,20 @@
 
 참고한 사이트는 다음과 같습니다.
 
-1. Tensorflow Tutorial
+1. Tensorflow Tutorial :
+   
 https://www.tensorflow.org/guide/tensor
 
-2. Pytorch Tutorial
+2. Pytorch Tutorial :
+   
 https://pytorch.org/tutorials/
 
-3. Python Application
+3. Python Application :
+   
 https://rednooby.tistory.com/56
 https://wikidocs.net/28
 
-4. Tensorflow Kears Tutorial
+4. Tensorflow Kears Tutorial :
+   
 Hands-On-ML 2
 
