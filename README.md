@@ -19,7 +19,11 @@ https://pytorch.org/tutorials/
 https://rednooby.tistory.com/56
 https://wikidocs.net/28
 
-4. Tensorflow Kears Tutorial :
+4. Tensorflow Keras Tutorial :
    
 Hands-On-ML 2
+
+5. Vision Practice
+
+https://www.tensorflow.org/api_docs/python/tf?hl=ko
 
