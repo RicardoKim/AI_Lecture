@@ -8,22 +8,22 @@
 
 1. Tensorflow Tutorial :
    
-https://www.tensorflow.org/guide/tensor
+    https://www.tensorflow.org/guide/tensor
 
 2. Pytorch Tutorial :
    
-https://pytorch.org/tutorials/
+    https://pytorch.org/tutorials/
 
 3. Python Application :
    
-https://rednooby.tistory.com/56
-https://wikidocs.net/28
+    https://rednooby.tistory.com/56
+    https://wikidocs.net/28
 
 4. Tensorflow Keras Tutorial :
    
-Hands-On-ML 2
+    Hands-On-ML 2
 
 5. Vision Practice
 
-https://www.tensorflow.org/api_docs/python/tf?hl=ko
+    https://www.tensorflow.org/api_docs/python/tf?hl=ko
 
